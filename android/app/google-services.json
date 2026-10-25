@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "799114600790",
+    "firebase_url": "https://kaamfast-c0c75-default-rtdb.firebaseio.com",
+    "project_id": "kaamfast-c0c75",
+    "storage_bucket": "kaamfast-c0c75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799114600790:android:bfdd4adb0c40ee4138f6f7",
+        "android_client_info": {
+          "package_name": "com.kaamfast.partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3x32kMf5B7r1mAuEKDtaUe1JQr6n2Uao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799114600790:android:49b2796d810b4a2438f6f7",
+        "android_client_info": {
+          "package_name": "com.kaamfast.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3x32kMf5B7r1mAuEKDtaUe1JQr6n2Uao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
